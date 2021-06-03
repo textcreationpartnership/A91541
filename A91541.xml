@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace againe in Sion, or, Heaven appeased, man to God reconciled, England and Scotland united. Shewing how the sword was drawne, the battel was pitched, desolation and destruction threatned on both sides, but thanks be to God, the angell hath sheathed up his sword, the Parliament hath made us friends, and the armies are quite disbanded. With the manner of the Scots departure from New-Castle into Scotland.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91541</idno><idno type="EEBO-CITATION">99873551</idno>
+  <idno type="VID">157042</idno>
+  <idno type="EEBO-PROQUEST">2248520523</idno>
+  
+            <idno type="STC">Wing P917</idno>
+            <idno type="STC">Thomason E171_7</idno>
+            <idno type="STC">ESTC R9442</idno>
+            <idno type="PROQUEST">99873551</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99873551e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91541)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157042)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E171[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace againe in Sion, or, Heaven appeased, man to God reconciled, England and Scotland united. Shewing how the sword was drawne, the battel was pitched, desolation and destruction threatned on both sides, but thanks be to God, the angell hath sheathed up his sword, the Parliament hath made us friends, and the armies are quite disbanded. With the manner of the Scots departure from New-Castle into Scotland.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Burton, and are to be sold at the signe of the Horse-shooe in Smith-field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157042:1"/>
+            <p>Peace againe in Sion, OR, HEAVEN APPEASED, man to God Reconciled, England and Scotland united.</p>
+            <p>Shewing how the Sword was drawne, the Battel was pitched, desolation and destruction threatned on both sides, but thanks be to God, the Angell hath sheathed up his sword, the Parlia<g ref="char:EOLhyphen"/>ment hath made us friends, and the Ar<g ref="char:EOLhyphen"/>mies are quite disbanded.</p>
+            <p>With the manner of the Scots departure from New-Castle into Scotland.</p>
+            <p>LONDON, Printed for <hi>Richard Burton,</hi> and are to be sold at the Signe of the Horse-shooe in Smith-field 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157042:2"/>
+            <pb facs="tcp:157042:2"/>
+            <head>Peace againe in Sion, or heaven appeased.</head>
+            <p>ARise thou (long since deceased) Prince of Orators, and let thy unparalleld eloquence a while assist me, that I may not want expression, to sound forth great Bri<g ref="char:EOLhyphen"/>taines happinesse, by the reason of their late pacificati<g ref="char:EOLhyphen"/>on.</p>
+            <p>Doth not <hi>Don Phoebus</hi> shine more gloriously than here<g ref="char:EOLhyphen"/>tofore! are not his uncontrowled steeds growne gentle, and yet triumphantly beare the burthen of a Sun burnt Chariot, having Garlands on their heads, composed of victorious Palme, which they doe as it were tender to England and Scotland, both being Conquerours, by a happy (at length concluded) peace; for joy of which, horned <hi>Phoebe</hi> scornes an obscure eclipse; but being ac<g ref="char:EOLhyphen"/>companyed (with her innumerous hand-maids) the starres, seemes to enflame the sky, with a (heretofore ne<g ref="char:EOLhyphen"/>ver seene) translucent lustre.</p>
+            <p>
+               <hi>Dame Tellus</hi> upon the sudden is growne fruitfull, being bedewed with Celestiall showres; the woods inspite of (approaching) Icy winter, seeme to be cloathed in their spring Garments, to incourage the transformed <hi>Philomel,</hi> that she would not be timorous of a second ravishing, but joyfully to Caroll forth her most delightfull notes.</p>
+            <p>What doe mine eyes behold? me thinkes <hi>Dame Flora</hi>
+               <pb n="4" facs="tcp:157042:3"/> hath newly crowned the Fields againe, usurping weeds are extirped, and in their places, spring up most sweet and Fragrant flowers, and all for joy that <hi>Mars</hi> exiled is from forth great Britaines borders.</p>
+            <p>
+               <hi>Neptune</hi> which beares the tripple Mace, hath lately played the Barber, and shaved the curled <hi>Ocea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> pate, which now lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes smooth and gentile, like to the little rivolet or gliding spring, in which the chaste <hi>Diana</hi> is not fearefull for to bath her selfe.</p>
+            <p>The Sea Nymphs upon the silent waves Caranto's dance, whose musitian <hi>Orpheus</hi> is, being newly raised from his female grave.</p>
+            <p>The distracted winds are all chayned up, except gen<g ref="char:EOLhyphen"/>tile <hi>Zephyrus,</hi> who serves in steed of a Fan to coole those bodyes, which by the warmth which <hi>Phoebus</hi> lends doe sweaty seeme, and onely for joy, that England with Scot<g ref="char:EOLhyphen"/>land shakes hands againe.</p>
+            <p>Doth the Sun, Moone, Starres, Earth and Sea rejoyce at our felicity? and shall our hearts have still their mourning Garments on? shall the woods be clad in their greene Liveries, and shall we be covered with fable? in so doing wee shew our selves ingratefull and unworthy, to receive the least of benefits.</p>
+            <p>But me thinkes I heare some soule being hard opprest with griefe for the losse, either of a Father, Mother, Bro<g ref="char:EOLhyphen"/>ther, sister, wife, or child occasioned by the contagious pestilence, which now is carryed about, not onely Lon<g ref="char:EOLhyphen"/>don, but also in divers other places of England, upon the back of unpartiall death.</p>
+            <p>I speake to such a one to be joyfull, but his answer is thus.</p>
+            <p>How can I be glad, so long as the pestilence hath po<g ref="char:EOLhyphen"/>wer
+<pb n="5" facs="tcp:157042:3"/> to destroy my friends? if it had pleased God to have kept back the plague, I could have beene contented to be joyfull as well as any one.</p>
+            <p>As if God should hire us to give him praise for the benefits, which he bestowes upon us. That the pesti<g ref="char:EOLhyphen"/>lence is now amongst us is most certaine, but what was the cause which brought it? was it not our sinne? O sure<g ref="char:EOLhyphen"/>ly yes, for God will not, nay (with reverence be it spo<g ref="char:EOLhyphen"/>ken) cannot afflict, except hee bee provoked unto it by sinne, and the wages of sinne we all know is death.</p>
+            <p>But yet wee see that in the midst of his judgement hee sheweth mercy, for with the plague he hath sent a bles<g ref="char:EOLhyphen"/>sing, peace, which is of all terrestriall blessings the chiefe. A most joyfull peace is concluded betweene England and Scotland. Marke O man, whosoever thou art, which being vexed with griefe a while cannot rejoyce, in thy Saviour, thy deliverer, thy peace-maker; marke I say, what of late thy God hath don for thee, consider how that when two Parliaments were dissolved, yet was there a happy third called, which wisely to manage, God put it into the peoples heart to choose renowned, loyall and faithfull worthies, to the terror of those which were bad, but joy to them which were not blotted nor stained with treachery: then was the pride of the Papists abated, nor were bad Priests affected, but utterly disal<g ref="char:EOLhyphen"/>lowed of; the foule Cannons, and oath in the Synod are by this most happy Parliament damned, and the first fra<g ref="char:EOLhyphen"/>mers of them in danger. Godly Priests are restored, Tray<g ref="char:EOLhyphen"/>tors executed. Blessed Union doth continue in both houses of Parliament. A Trienniall Parliament enacted: Ship▪ money and Pattents put downe, Universities refor<g ref="char:EOLhyphen"/>med. Sabbaths better Sanctified, sporting upon those ho<g ref="char:EOLhyphen"/>ly
+<pb n="6" facs="tcp:157042:4"/> dayes, being quite suppressed, Popish Ceremonies sen<g ref="char:EOLhyphen"/>tenced, persecuted Pastors recalled; no High Commis<g ref="char:EOLhyphen"/>sion Court, or Star-chamber admitted. These and many more benefits, by the providence of God, and wisedome of the Parliament, have beene conferred upon us, and shall one punishment ecclipse the splendour of so many blessings? God forbid; wherefore let us sing unto the Lord a new song. Let us all with one accord both pray, and praise our God: pray him that the pestilence may cease, and praise him for the good, which hee hath done for Is<g ref="char:EOLhyphen"/>rael; but especially for that of uniting England and Scotland together; againe for joy of which, once more I say, let us triumph and rejoyce, some one may aske the question, how he should triumph and rejoyce?</p>
+            <p>I answer, not by going to a Taverne or an Ale-house, and be drunk there, or by following vaine sports, to please the fansie: but by going to Church, the house of God, where He hath promised, (two or three being gathered in his name there,) to grant their requests. There let us gather our selves together, as it is required of us, upon the seventh day of September now comming, by his Majesties proclamation, to heare Prayers, and preaching: so must we triumph and re<g ref="char:EOLhyphen"/>joyce, singing Psalmes, and Hymnes, and spirituall songs, Halelujahs and Hosanna's to him, that sitteth upon the Throne, judging of the twelve Tribes of Israell; in him let us rejoyce, in him let us be glad, in him let us triumph; for it is He and onely He, which can, and will preserve us, so as wee put our trust in him: To whom be all Glory, Honour, Might, Majesty, and Dominion, both now and for ever.</p>
+         </div>
+         <div type="report">
+            <pb n="7" facs="tcp:157042:4"/>
+            <head>The manner of the Scots departure from New-Castle into Scotland.</head>
+            <p>THe Generall of the Scots made Proclamati<g ref="char:EOLhyphen"/>on, That every man should bring in their Bills of charge, what every Souldier had run in arrearages, and every man bringing in their bills, were paid to the uttermost farthing: &amp; further he gave Command, that none should wrong man, nor woman, nor Child, neither meddle nor make with any mans goods there marching a<g ref="char:EOLhyphen"/>way, but what they paid for, to the uttermost: and whosoever did offend; the Generall made the party that did offend, give double restitution.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
